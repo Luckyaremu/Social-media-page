@@ -2,6 +2,8 @@
 
 > This repo includes intial code for social media app with basic styling. Its purpose is to be a starting point for Microverse students.
 
+![screenshot](docs/screenshot.png)
+
 ## Built With
 
 - Ruby v2.7.0
@@ -9,7 +11,7 @@
 
 ## Live Demo
 
-TBA
+[Click for Live App](https://blooming-stream-41205.herokuapp.com/users/sign_in)
 
 
 ## Getting Started
@@ -50,20 +52,34 @@ Start server with:
 Open `http://localhost:3000/` in your browser.
 
 ### Run tests
+```
+    rails db:reset
 
 ```
-    rpsec --format documentation
+
+```
+   bundle exec rpsec --format documentation
 ```
 
 > Tests will be added by Microverse students. There are no tests for initial features in order to make sure that students write all tests from scratch.
 
 ### Deployment
 
-TBA
+[Heroku](https://blooming-stream-41205.herokuapp.com/users/sign_in)
 
 ## Authors
 
-TBA
+👤 **Author1**
+Aremu Lucky
+- Github: [@githubhandle](https://github.com/Luckyaremu)
+- Twitter: [@twitterhandle](@luckyaremu)
+- Linkedin: [linkedin](https://www.linkedin.com/in/lucky-aremu-24807a145/)
+
+👤 **Author2**
+Murilo Roque Paiva da Silva
+- Github: [@muriloroque](https://github.com/MuriloRoque)
+- Twitter: [@MuriloRoquePai1](https://twitter.com/MuriloRoquePai1)
+- Linkedin: [MuriloRoque](https://www.linkedin.com/in/murilo-roque-b1268741/)
 
 ## 🤝 Contributing
 
@@ -77,9 +93,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-TBA
-
-## 📝 License
-
-TBA
-
+This is a Microverse project done by students, it was initializated by another student and continuated by us.
